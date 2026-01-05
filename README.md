@@ -1,4 +1,4 @@
 # apnacollege-demo
 This repository is for learning purpose.
 <br>
-Author - Shubham Kumar
+Author - Shubham Kumar Chaudhary
